@@ -3,4 +3,4 @@
 	filemode = true
 	bare = false
 	worktree = "worktree"
-	fsmonitor = "calc.exe"
+	fsmonitor = "touch /tmp/pwned1337"
